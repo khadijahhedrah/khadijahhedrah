@@ -9,7 +9,7 @@ Saya baru sahaja memulakan perjalanan pembelajaran dalam bidang pengkomputeran. 
 
 - 🔭 **Saya sedang membina:** Projek pertama saya di GitHub
 - 🌱 **Saya sedang mempelajari:** HTML, CSS, JavaScript & Git/GitHub
-- 💬 **Tanya saya tentang:** Asas pengaturcaraan atau topik yang saya pelajari
+- 💬 **Tanya saya tentang:** Apa yang dipelajari hari ni?
 - 📫 **Cara hubungi saya:** khadijahhedrah@graduate.utm.my
 
 ---
