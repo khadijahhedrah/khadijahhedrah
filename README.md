@@ -1,16 +1,20 @@
-## Hi there 👋
+# Assalamualaikum and Haii, saya Khadijah Hedrah! 👋
 
-<!--
-**khadijahhedrah/khadijahhedrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Mengenai Saya
+Saya baru sahaja memulakan perjalanan pembelajaran di GitHub! Saya berminat untuk mempelajari pembangunan perisian dan perkongsian projek secara terbuka.
 
-Here are some ideas to get you started:
+- 🔭 **Saya sedang membina:** Projek pertama saya di GitHub
+- 🌱 **Saya sedang mempelajari:** HTML, CSS, JavaScript & Git/GitHub
+- 💬 **Tanya saya tentang:** Asas pengaturcaraan atau topik yang saya pelajari
+- 📫 **Cara hubungi saya:** khadijah@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Kemahiran & Perkakas
+- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript (contoh)
+- **Alatan (Tools):** Git, GitHub, VS Code
+
+---
+
+### 📈 Statistik GitHub
+*(Boleh ditambah kemudian apabila anda mula aktif)*
