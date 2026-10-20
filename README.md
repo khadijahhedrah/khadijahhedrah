@@ -4,14 +4,14 @@
 
 # Assalamualaikum & haloo, saya Khadijah Hedrah! 👋
 
-### 👩‍💻 Mengenai Saya
-Saya baru sahaja memulakan perjalanan pembelajaran dalam bidang pengkomputeran. Saya berminat untuk mempelajari pembangunan perisian dan perkongsian projek secara terbuka.
+### 👩‍💻 Info Saya
+Saya baru sahaja memulakan perjalanan pembelajaran dalam bidang pengkomputeran. Saya berminat untuk mempelajari pembangunan perisian dan perkongsian projek secara terbuka. 
 
 - 🔭 **Saya sedang membina:** Projek pertama saya di GitHub
 - 🌱 **Saya sedang mempelajari:** HTML, CSS, JavaScript & Git/GitHub
 - 💬 **Tanya saya tentang:** Apa yang dipelajari hari ni?
+- 📝 **Tahap pengetahuan:** Asas
 - 📫 **Cara hubungi saya:** khadijahhedrah@graduate.utm.my
-
 ---
 
 ### 🛠️ Kemahiran & Perkakas
