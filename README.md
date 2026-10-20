@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="saya.jpg" alt="Khadijah Hedrah" width="150" style="border-radius: 50%;" />
+  <img src="saya1.jpg" alt="Khadijah Hedrah" width="150" style="border-radius: 50%;" />
 </p>
 
 # Hi, saya Khadijah Hedrah! 👋
