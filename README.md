@@ -2,10 +2,10 @@
   <img src="saya1.jpg" alt="Khadijah Hedrah" width="150" style="border-radius: 50%;" />
 </p>
 
-# Hi, saya Khadijah Hedrah! 👋
+# Assalamualaikum & haloo, saya Khadijah Hedrah! 👋
 
 ### 👩‍💻 Mengenai Saya
-Saya baru sahaja memulakan perjalanan pembelajaran di GitHub! Saya berminat untuk mempelajari pembangunan perisian dan perkongsian projek secara terbuka.
+Saya baru sahaja memulakan perjalanan pembelajaran di bidang pengkomputeran. Saya berminat untuk mempelajari pembangunan perisian dan perkongsian projek secara terbuka.
 
 - 🔭 **Saya sedang membina:** Projek pertama saya di GitHub
 - 🌱 **Saya sedang mempelajari:** HTML, CSS, JavaScript & Git/GitHub
