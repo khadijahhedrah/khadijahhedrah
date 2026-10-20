@@ -1,4 +1,4 @@
-# Assalamualaikum and Haii, saya Khadijah Hedrah! 👋
+# Assalamualaikum and haii, saya Khadijah Hedrah! 👋
 
 ### 👩‍💻 Mengenai Saya
 Saya baru sahaja memulakan perjalanan pembelajaran di GitHub! Saya berminat untuk mempelajari pembangunan perisian dan perkongsian projek secara terbuka.
